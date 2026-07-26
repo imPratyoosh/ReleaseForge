@@ -1,0 +1,10 @@
+# 
+# ==========================================
+# ReleaseForge - Python Dependencies
+# ==========================================
+
+# We only have one external dependency! 
+# Python 3.12's standard library handles almost everything else (tomllib, dataclasses, etc.)
+
+requests==2.32.*
+
